@@ -1,0 +1,7 @@
+for var in "-O0" "-O1" "-O2" "-O3"
+do
+echo ${var} >> lab11.res
+./lab11${var} 1 32032 1 >> lab11.res
+./lab11${var} 1 3200032 1 >> lab11.res
+./lab11${var} 1 32000032 1 >> lab11.res
+done
