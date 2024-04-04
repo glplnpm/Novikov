@@ -1,0 +1,268 @@
+-O0
+M=1	N=32224	v=7
+B=0.52 Gbyte/s
+unroll 1
+I=0.0833 FLOP/byte
+P=0.207 GFLOP/s
+T=0.000312 s
+gamma=1.58e+03
+unroll 2
+I=0.0833 FLOP/byte
+P=0.00394 GFLOP/s
+T=0.0164 s
+gamma=1.58e+03
+unroll 3
+I=0.0833 FLOP/byte
+P=0.207 GFLOP/s
+T=0.000311 s
+gamma=1.58e+03
+unroll 4
+I=0.0833 FLOP/byte
+P=0.214 GFLOP/s
+T=0.000301 s
+gamma=1.58e+03
+M=1	N=3200224	v=7
+B=0.219 Gbyte/s
+unroll 1
+I=0.0833 FLOP/byte
+P=0.0732 GFLOP/s
+T=0.0875 s
+gamma=1.57e+05
+unroll 2
+I=0.0833 FLOP/byte
+P=0.0776 GFLOP/s
+T=0.0824 s
+gamma=1.57e+05
+unroll 3
+I=0.0833 FLOP/byte
+P=0.0679 GFLOP/s
+T=0.0942 s
+gamma=1.57e+05
+unroll 4
+I=0.0833 FLOP/byte
+P=0.0648 GFLOP/s
+T=0.0987 s
+gamma=1.57e+05
+M=1	N=32000224	v=7
+B=0.203 Gbyte/s
+unroll 1
+I=0.0833 FLOP/byte
+P=0.0951 GFLOP/s
+T=0.673 s
+gamma=1.57e+06
+unroll 2
+I=0.0833 FLOP/byte
+P=0.076 GFLOP/s
+T=0.842 s
+gamma=1.57e+06
+unroll 3
+I=0.0833 FLOP/byte
+P=0.0741 GFLOP/s
+T=0.864 s
+gamma=1.57e+06
+unroll 4
+I=0.0833 FLOP/byte
+P=0.0808 GFLOP/s
+T=0.792 s
+gamma=1.57e+06
+-O1
+M=1	N=32224	v=7
+B=0.0457 Gbyte/s
+unroll 1
+I=0.0833 FLOP/byte
+P=0.23 GFLOP/s
+T=0.00028 s
+gamma=1.58e+03
+unroll 2
+I=0.0833 FLOP/byte
+P=0.395 GFLOP/s
+T=0.000163 s
+gamma=1.58e+03
+unroll 3
+I=0.0833 FLOP/byte
+P=0.474 GFLOP/s
+T=0.000136 s
+gamma=1.58e+03
+unroll 4
+I=0.0833 FLOP/byte
+P=0.545 GFLOP/s
+T=0.000118 s
+gamma=1.58e+03
+M=1	N=3200224	v=7
+B=0.42 Gbyte/s
+unroll 1
+I=0.0833 FLOP/byte
+P=0.125 GFLOP/s
+T=0.0513 s
+gamma=1.57e+05
+unroll 2
+I=0.0833 FLOP/byte
+P=0.098 GFLOP/s
+T=0.0653 s
+gamma=1.57e+05
+unroll 3
+I=0.0833 FLOP/byte
+P=0.136 GFLOP/s
+T=0.0471 s
+gamma=1.57e+05
+unroll 4
+I=0.0833 FLOP/byte
+P=0.189 GFLOP/s
+T=0.0339 s
+gamma=1.57e+05
+M=1	N=32000224	v=7
+B=0.378 Gbyte/s
+unroll 1
+I=0.0833 FLOP/byte
+P=0.12 GFLOP/s
+T=0.534 s
+gamma=1.57e+06
+unroll 2
+I=0.0833 FLOP/byte
+P=0.115 GFLOP/s
+T=0.555 s
+gamma=1.57e+06
+unroll 3
+I=0.0833 FLOP/byte
+P=0.159 GFLOP/s
+T=0.402 s
+gamma=1.57e+06
+unroll 4
+I=0.0833 FLOP/byte
+P=0.269 GFLOP/s
+T=0.238 s
+gamma=1.57e+06
+-O2
+M=1	N=32224	v=7
+B=1.01 Gbyte/s
+unroll 1
+I=0.0833 FLOP/byte
+P=0.255 GFLOP/s
+T=0.000253 s
+gamma=1.58e+03
+unroll 2
+I=0.0833 FLOP/byte
+P=0.437 GFLOP/s
+T=0.000147 s
+gamma=1.58e+03
+unroll 3
+I=0.0833 FLOP/byte
+P=0.492 GFLOP/s
+T=0.000131 s
+gamma=1.58e+03
+unroll 4
+I=0.0833 FLOP/byte
+P=0.49 GFLOP/s
+T=0.000131 s
+gamma=1.58e+03
+M=1	N=3200224	v=7
+B=0.905 Gbyte/s
+unroll 1
+I=0.0833 FLOP/byte
+P=0.234 GFLOP/s
+T=0.0273 s
+gamma=1.57e+05
+unroll 2
+I=0.0833 FLOP/byte
+P=0.217 GFLOP/s
+T=0.0295 s
+gamma=1.57e+05
+unroll 3
+I=0.0833 FLOP/byte
+P=0.224 GFLOP/s
+T=0.0286 s
+gamma=1.57e+05
+unroll 4
+I=0.0833 FLOP/byte
+P=0.23 GFLOP/s
+T=0.0279 s
+gamma=1.57e+05
+M=1	N=32000224	v=7
+B=0.448 Gbyte/s
+unroll 1
+I=0.0833 FLOP/byte
+P=0.131 GFLOP/s
+T=0.488 s
+gamma=1.57e+06
+unroll 2
+I=0.0833 FLOP/byte
+P=0.128 GFLOP/s
+T=0.499 s
+gamma=1.57e+06
+unroll 3
+I=0.0833 FLOP/byte
+P=0.132 GFLOP/s
+T=0.484 s
+gamma=1.57e+06
+unroll 4
+I=0.0833 FLOP/byte
+P=0.116 GFLOP/s
+T=0.552 s
+gamma=1.57e+06
+-O3
+M=1	N=32224	v=7
+B=0.963 Gbyte/s
+unroll 1
+I=0.0833 FLOP/byte
+P=0.15 GFLOP/s
+T=0.00043 s
+gamma=1.58e+03
+unroll 2
+I=0.0833 FLOP/byte
+P=0.2 GFLOP/s
+T=0.000322 s
+gamma=1.58e+03
+unroll 3
+I=0.0833 FLOP/byte
+P=0.218 GFLOP/s
+T=0.000295 s
+gamma=1.58e+03
+unroll 4
+I=0.0833 FLOP/byte
+P=0.227 GFLOP/s
+T=0.000283 s
+gamma=1.58e+03
+M=1	N=3200224	v=7
+B=0.384 Gbyte/s
+unroll 1
+I=0.0833 FLOP/byte
+P=0.0889 GFLOP/s
+T=0.072 s
+gamma=1.57e+05
+unroll 2
+I=0.0833 FLOP/byte
+P=0.0901 GFLOP/s
+T=0.0711 s
+gamma=1.57e+05
+unroll 3
+I=0.0833 FLOP/byte
+P=0.12 GFLOP/s
+T=0.0535 s
+gamma=1.57e+05
+unroll 4
+I=0.0833 FLOP/byte
+P=0.0978 GFLOP/s
+T=0.0655 s
+gamma=1.57e+05
+M=1	N=32000224	v=7
+B=0.45 Gbyte/s
+unroll 1
+I=0.0833 FLOP/byte
+P=0.195 GFLOP/s
+T=0.328 s
+gamma=1.57e+06
+unroll 2
+I=0.0833 FLOP/byte
+P=0.182 GFLOP/s
+T=0.351 s
+gamma=1.57e+06
+unroll 3
+I=0.0833 FLOP/byte
+P=0.209 GFLOP/s
+T=0.306 s
+gamma=1.57e+06
+unroll 4
+I=0.0833 FLOP/byte
+P=0.14 GFLOP/s
+T=0.458 s
+gamma=1.57e+06

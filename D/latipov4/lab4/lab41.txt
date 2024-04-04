@@ -1,0 +1,170 @@
+-O0
+M=1	N=32224	v=7
+B=0.502 Gbyte/s
+Number of processes=1
+I=0.125 FLOP/byte
+P=0.196 GFLOP/s
+T=0.000328 s
+gamma=1.58e+03
+M=1	N=32224	v=7
+B=0.399 Gbyte/s
+Number of processes=2
+I=0.125 FLOP/byte
+P=0.186 GFLOP/s
+T=0.000346 s
+gamma=1.58e+03
+M=1	N=32224	v=7
+B=0.368 Gbyte/s
+Number of processes=4
+I=0.125 FLOP/byte
+P=0.00511 GFLOP/s
+T=0.0126 s
+gamma=1.58e+03
+M=1	N=32224	v=7
+B=0.0182 Gbyte/s
+Number of processes=8
+I=0.125 FLOP/byte
+P=0.00269 GFLOP/s
+T=0.0239 s
+gamma=1.58e+03
+M=1	N=3200224	v=7
+B=0.469 Gbyte/s
+Number of processes=1
+I=0.125 FLOP/byte
+P=0.213 GFLOP/s
+T=0.0301 s
+gamma=1.57e+05
+M=1	N=3200224	v=7
+B=0.367 Gbyte/s
+Number of processes=2
+I=0.125 FLOP/byte
+P=0.226 GFLOP/s
+T=0.0283 s
+gamma=1.57e+05
+M=1	N=3200224	v=7
+B=0.194 Gbyte/s
+Number of processes=4
+I=0.125 FLOP/byte
+P=0.2 GFLOP/s
+T=0.0319 s
+gamma=1.57e+05
+M=1	N=3200224	v=7
+B=0.182 Gbyte/s
+Number of processes=8
+I=0.125 FLOP/byte
+P=0.264 GFLOP/s
+T=0.0242 s
+gamma=1.57e+05
+M=1	N=32000224	v=7
+B=0.469 Gbyte/s
+Number of processes=1
+I=0.125 FLOP/byte
+P=0.216 GFLOP/s
+T=0.297 s
+gamma=1.57e+06
+M=1	N=32000224	v=7
+B=0.386 Gbyte/s
+Number of processes=2
+I=0.125 FLOP/byte
+P=0.254 GFLOP/s
+T=0.252 s
+gamma=1.57e+06
+M=1	N=32000224	v=7
+B=0.204 Gbyte/s
+Number of processes=4
+I=0.125 FLOP/byte
+P=0.281 GFLOP/s
+T=0.228 s
+gamma=1.57e+06
+M=1	N=32000224	v=7
+B=0.204 Gbyte/s
+Number of processes=8
+I=0.125 FLOP/byte
+P=0.569 GFLOP/s
+T=0.113 s
+gamma=1.57e+06
+-O3
+M=1	N=32224	v=7
+B=1.06 Gbyte/s
+Number of processes=1
+I=0.125 FLOP/byte
+P=0.214 GFLOP/s
+T=0.000301 s
+gamma=1.58e+03
+M=1	N=32224	v=7
+B=0.689 Gbyte/s
+Number of processes=2
+I=0.125 FLOP/byte
+P=0.206 GFLOP/s
+T=0.000313 s
+gamma=1.58e+03
+M=1	N=32224	v=7
+B=0.0327 Gbyte/s
+Number of processes=4
+I=0.125 FLOP/byte
+P=0.00269 GFLOP/s
+T=0.024 s
+gamma=1.58e+03
+M=1	N=32224	v=7
+B=0.0333 Gbyte/s
+Number of processes=8
+I=0.125 FLOP/byte
+P=0.00271 GFLOP/s
+T=0.0238 s
+gamma=1.58e+03
+M=1	N=3200224	v=7
+B=0.853 Gbyte/s
+Number of processes=1
+I=0.125 FLOP/byte
+P=0.216 GFLOP/s
+T=0.0297 s
+gamma=1.57e+05
+M=1	N=3200224	v=7
+B=0.583 Gbyte/s
+Number of processes=2
+I=0.125 FLOP/byte
+P=0.235 GFLOP/s
+T=0.0273 s
+gamma=1.57e+05
+M=1	N=3200224	v=7
+B=0.306 Gbyte/s
+Number of processes=4
+I=0.125 FLOP/byte
+P=0.134 GFLOP/s
+T=0.0478 s
+gamma=1.57e+05
+M=1	N=3200224	v=7
+B=0.292 Gbyte/s
+Number of processes=8
+I=0.125 FLOP/byte
+P=0.229 GFLOP/s
+T=0.028 s
+gamma=1.57e+05
+M=1	N=32000224	v=7
+B=0.863 Gbyte/s
+Number of processes=1
+I=0.125 FLOP/byte
+P=0.235 GFLOP/s
+T=0.273 s
+gamma=1.57e+06
+M=1	N=32000224	v=7
+B=0.642 Gbyte/s
+Number of processes=2
+I=0.125 FLOP/byte
+P=0.271 GFLOP/s
+T=0.236 s
+gamma=1.57e+06
+M=1	N=32000224	v=7
+B=0.328 Gbyte/s
+Number of processes=4
+I=0.125 FLOP/byte
+P=0.288 GFLOP/s
+T=0.222 s
+gamma=1.57e+06
+M=1	N=32000224	v=7
+B=0.315 Gbyte/s
+Number of processes=8
+I=0.125 FLOP/byte
+P=0.666 GFLOP/s
+T=0.096 s
+gamma=1.57e+06

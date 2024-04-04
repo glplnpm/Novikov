@@ -1,0 +1,11 @@
+v=7 # вариант
+for var in "-O0" "-O1" "-O2" "-O3" 
+do
+echo ${var} >> lab12.res
+    for var1 in 10 20 40
+    do
+	size=$(( v + var1 ))
+	size=$(( size * 32 ))
+	./lab12${var} ${size} ${size} ${v} >> lab12.res
+    done
+done
