@@ -1,0 +1,130 @@
+M=1536	N=1536	v=8
+-O3
+M=576	N=576	v=8
+B=0.992 Gbyte/s
+ijk
+P=0.09 GFLOP/s
+I=36 GFLOP/s
+M=896	N=896	v=8
+B=0.969 Gbyte/s
+ijk
+P=0.0489 GFLOP/s
+I=56 GFLOP/s
+M=1536	N=1536	v=8
+-O0
+M=576	N=576	v=8
+B=0.443 Gbyte/s
+ijk
+P=0.0828 GFLOP/s
+I=36 GFLOP/s
+M=896	N=896	v=8
+B=0.506 Gbyte/s
+ijk
+P=0.0341 GFLOP/s
+I=56 GFLOP/s
+LOP/s
+I=36 GFLOP/s
+M=896	N=896	v=8
+M=1536	N=1536	v=8
+B=0.554 Gbyte/s
+ijk
+P=0.0217 GFLOP/s
+I=96 GFLOP/s
+M=1536	N=1536	v=8
+B=0.978 Gbyte/s
+ijk
+P=0.0288 GFLOP/s
+I=96 GFLOP/s
+B=0.997 Gbyte/s
+ijk
+P=0.0327 GFLOP/s
+I=96 GFLOP/s
+-O1
+M=576	N=576	v=8
+B=0.864 Gbyte/s
+ijk
+P=0.216 GFLOP/s
+I=36 GFLOP/s
+M=896	N=896	v=8
+B=1.05 Gbyte/s
+ijk
+P=0.125 GFLOP/s
+I=56 GFLOP/s
+M=1536	N=1536	v=8
+B=1.17 Gbyte/s
+ijk
+P=0.0777 GFLOP/s
+I=96 GFLOP/s
+
+-O1
+M=576	N=576	v=8
+B=1.17 Gbyte/s
+ijk
+P=0.169 GFLOP/s
+I=36 GFLOP/s
+M=896	N=896	v=8
+B=1.17 Gbyte/s
+ijk
+P=0.0937 GFLOP/s
+I=56 GFLOP/s
+M=1536	N=1536	v=8
+-O2
+M=576	N=576	v=8
+B=0.912 Gbyte/s
+ijk
+P=0.22 GFLOP/s
+I=36 GFLOP/s
+M=896	N=896	v=8
+B=1.16 Gbyte/s
+ijk
+P=0.131 GFLOP/s
+I=56 GFLOP/s
+M=1536	N=1536	v=8
+B=1.29 Gbyte/s
+ijk
+P=0.0783 GFLOP/s
+I=96 GFLOP/s
+-O2
+M=576	N=576	v=8
+B=1.31 Gbyte/s
+ijk
+P=0.187 GFLOP/s
+I=36 GFLOP/s
+M=896	N=896	v=8
+B=1.28 Gbyte/s
+ijk
+P=0.117 GFLOP/s
+I=56 GFLOP/s
+M=1536	N=1536	v=8
+-O3
+M=576	N=576	v=8
+B=1.07 Gbyte/s
+ijk
+P=0.221 GFLOP/s
+I=36 GFLOP/s
+M=896	N=896	v=8
+B=1.05 Gbyte/s
+ijk
+P=0.136 GFLOP/s
+I=56 GFLOP/s
+M=1536	N=1536	v=8
+B=1.35 Gbyte/s
+ijk
+P=0.0778 GFLOP/s
+I=96 GFLOP/s
+-O3
+M=576	N=576	v=8
+B=1.35 Gbyte/s
+ijk
+P=0.161 GFLOP/s
+I=36 GFLOP/s
+M=896	N=896	v=8
+B=1.31 Gbyte/s
+ijk
+P=0.105 GFLOP/s
+I=56 GFLOP/s
+M=1536	N=1536	v=8
+B=1.35 Gbyte/s
+ijk
+P=0.0566 GFLOP/s
+I=96 GFLOP/s

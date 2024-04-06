@@ -1,0 +1,76 @@
+-O0
+M=1	N=32256	v=8
+B=0.585 Gbyte/s
+I=0.125 FLOP/byte
+P=0.2 GFLOP/s
+T=0.000323 s
+gamma=2.06e+03
+M=1	N=3200256	v=8
+B=0.522 Gbyte/s
+I=0.125 FLOP/byte
+P=0.209 GFLOP/s
+T=0.0306 s
+gamma=2.05e+05
+M=1	N=32000256	v=8
+B=0.526 Gbyte/s
+I=0.125 FLOP/byte
+P=0.21 GFLOP/s
+T=0.305 s
+gamma=2.05e+06
+-O1
+M=1	N=32256	v=8
+B=1.24 Gbyte/s
+I=0.125 FLOP/byte
+P=0.634 GFLOP/s
+T=0.000102 s
+gamma=2.06e+03
+M=1	N=3200256	v=8
+B=0.953 Gbyte/s
+I=0.125 FLOP/byte
+P=0.434 GFLOP/s
+T=0.0148 s
+gamma=2.05e+05
+M=1	N=32000256	v=8
+B=0.976 Gbyte/s
+I=0.125 FLOP/byte
+P=0.454 GFLOP/s
+T=0.141 s
+gamma=2.05e+06
+-O2
+M=1	N=32256	v=8
+B=1.35 Gbyte/s
+I=0.125 FLOP/byte
+P=0.62 GFLOP/s
+T=0.000104 s
+gamma=2.06e+03
+M=1	N=3200256	v=8
+B=1.01 Gbyte/s
+I=0.125 FLOP/byte
+P=0.428 GFLOP/s
+T=0.0149 s
+gamma=2.05e+05
+M=1	N=32000256	v=8
+B=1.03 Gbyte/s
+I=0.125 FLOP/byte
+P=0.456 GFLOP/s
+T=0.14 s
+gamma=2.05e+06
+-O3
+M=1	N=32256	v=8
+B=1.33 Gbyte/s
+I=0.125 FLOP/byte
+P=0.612 GFLOP/s
+T=0.000105 s
+gamma=2.06e+03
+M=1	N=3200256	v=8
+B=1.05 Gbyte/s
+I=0.125 FLOP/byte
+P=0.431 GFLOP/s
+T=0.0149 s
+gamma=2.05e+05
+M=1	N=32000256	v=8
+B=1.07 Gbyte/s
+I=0.125 FLOP/byte
+P=0.456 GFLOP/s
+T=0.14 s
+gamma=2.05e+06
