@@ -1,0 +1,15 @@
+v=6 # вариант
+conf="-H nd1:4,nd2:4,nd3:4,nd4:4,nd5:4,nd6:4,nd7:4,nd8:4"
+for var in "-O0" "-O3"
+do
+echo ${var} >> lab41.txt
+  for var1 in 1000 100000 1000000
+  do
+    for var2 in 1 2 4 8 # 16 32
+    do
+	size=$(( v + var1 ))
+	size=$(( size * 32 ))
+	mpirun -np ${var2} ${conf} ./lab41${var} 1 ${size} ${v} >> lab41.txt
+    done
+  done
+done

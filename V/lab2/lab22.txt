@@ -1,0 +1,88 @@
+-O0
+M=512	N=512	v=6
+0.6
+B=0.345 Gbyte/s
+ijk
+I=64 FLOP/byte
+P=0.0759 GFLOP/s
+T=3.54 s
+M=832	N=832	v=6
+0.6
+B=0.338 Gbyte/s
+ijk
+I=104 FLOP/byte
+P=0.0879 GFLOP/s
+T=13.1 s
+M=1472	N=1472	v=6
+0.6
+B=0.336 Gbyte/s
+ijk
+I=184 FLOP/byte
+P=0.0587 GFLOP/s
+T=109 s
+-O1
+M=512	N=512	v=6
+0.6
+B=0.921 Gbyte/s
+ijk
+I=64 FLOP/byte
+P=0.141 GFLOP/s
+T=1.9 s
+M=832	N=832	v=6
+0.6
+B=0.942 Gbyte/s
+ijk
+I=104 FLOP/byte
+P=0.254 GFLOP/s
+T=4.53 s
+M=1472	N=1472	v=6
+0.6
+B=0.935 Gbyte/s
+ijk
+I=184 FLOP/byte
+P=0.146 GFLOP/s
+T=43.7 s
+-O2
+M=512	N=512	v=6
+0.6
+B=0.886 Gbyte/s
+ijk
+I=64 FLOP/byte
+P=0.109 GFLOP/s
+T=2.46 s
+M=832	N=832	v=6
+0.6
+B=0.945 Gbyte/s
+ijk
+I=104 FLOP/byte
+P=0.239 GFLOP/s
+T=4.82 s
+M=1472	N=1472	v=6
+0.6
+B=0.947 Gbyte/s
+ijk
+I=184 FLOP/byte
+P=0.145 GFLOP/s
+T=44 s
+-O3
+M=512	N=512	v=6
+0.6
+B=1.06 Gbyte/s
+ijk
+I=64 FLOP/byte
+P=0.123 GFLOP/s
+T=2.18 s
+M=832	N=832	v=6
+0.6
+B=1.1 Gbyte/s
+ijk
+I=104 FLOP/byte
+P=0.261 GFLOP/s
+T=4.42 s
+M=1472	N=1472	v=6
+0.6
+B=1.03 Gbyte/s
+ijk
+I=184 FLOP/byte
+P=0.146 GFLOP/s
+T=43.7 s
