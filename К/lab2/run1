@@ -1,0 +1,11 @@
+v=9 # вариант
+for var in "-O0" "-O1" "-O2" "-O3" 
+do
+echo ${var} >> lab21.txt
+    for var1 in 1000 100000 1000000
+    do
+	size=$(( v + var1 ))
+	size=$(( size * 32 ))
+	./lab21${var} 1 ${size} ${v} >> lab21.txt
+    done
+done

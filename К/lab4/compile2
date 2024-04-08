@@ -1,0 +1,7 @@
+dvar=
+#-DDBL
+
+for var in "-O0" "-O3"
+do
+    mpiCC -Wall ${var} $dvar lab42.cpp -o lab42${var}
+done

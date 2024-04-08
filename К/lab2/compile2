@@ -1,0 +1,7 @@
+dvar=
+#-DDBL
+
+for var in "-O0" "-O1" "-O2" "-O3"
+do
+    g++ ${var} -fopenmp $dvar lab22.cpp -o lab22${var}
+done

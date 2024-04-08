@@ -1,0 +1,43 @@
+\begin{figure}[H]
+    \centering
+\begin{tikzpicture}
+
+\begin{loglogaxis}[
+    axis lines = left,
+    xlabel = {$I$, FLOP/byte},
+    ylabel = {$P$, GFLOP/s}, 
+    legend pos = south east
+]
+
+\addplot [
+    domain=0.001:10000, 
+    samples=200, 
+    color=black,
+    dashed
+    ]
+    {x <= \icrossFirst ?  \bwFirst *x : \perfFirst}; % (2)
+    \addlegendentry{RPi4}
+
+\addplot [
+    domain=0.001:10000, 
+    samples=200, 
+    color=black
+    ]
+    {x <= \icrossSecond ?  \bwSecond *x : \perfSecond}; % (2)
+    \addlegendentry{кластер}
+
+\addplot [only marks, color=black, mark=square] coordinates {
+    (0.083, 0.293)
+    };
+\addlegendentry{(1) OpenMP}
+
+\addplot [only marks, color=black, mark=square*, mark color=black] coordinates {
+    (114.28, 0.44) 
+    };
+\addlegendentry{(2) OpenMP}
+
+\end{loglogaxis}
+\end{tikzpicture}
+    \caption{Производительность параллельных вычислений для заданий (1) и (2) с применением технологии OpenMP, и Roofline модели кластера и миникомпьютера (RPi4).}
+    \label{fig:RL3}
+\end{figure}

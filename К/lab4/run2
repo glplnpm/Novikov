@@ -1,0 +1,16 @@
+v=9 # вариант
+conf='nd1:4,nd2:4,nd3:4,nd4:4,nd5:4,nd6:4,nd7:4,nd8:4'
+for var in "-O0" "-O3"
+do
+echo ${var} >> lab42.txt
+  for var1 in 40
+  do
+    for var2 in 1 2 4 8 16 32
+    do
+	size=$(( v + var1 ))
+	size=$(( size * 32 ))
+	echo ${size}; echo ${var2};
+	mpirun -np ${var2} -H ${conf} ./lab42${var} ${size} ${size} ${v} >> lab42.txt
+    done
+  done
+done
