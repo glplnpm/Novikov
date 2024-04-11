@@ -1,0 +1,84 @@
+-O0
+M=928	N=928	v=19
+-O0
+M=928	N=928	v=19
+-O0
+M=928	N=928	v=19
+-O0
+M=928	N=928	v=19
+-O0
+M=928	N=928	v=19
+B=0.331 Gbyte/s
+kji
+I=116 FLOP/byte
+P=0.0546 GFLOP/s
+T=29.3 s
+M=1248	N=1248	v=19
+B=0.329 Gbyte/s
+kji
+I=156 FLOP/byte
+P=0.0464 GFLOP/s
+T=83.7 s
+M=1888	N=1888	v=19
+B=0.329 Gbyte/s
+kji
+I=236 FLOP/byte
+P=0.0345 GFLOP/s
+T=390 s
+-O1
+M=928	N=928	v=19
+B=0.975 Gbyte/s
+kji
+I=116 FLOP/byte
+P=0.0674 GFLOP/s
+T=23.7 s
+M=1248	N=1248	v=19
+B=0.97 Gbyte/s
+kji
+I=156 FLOP/byte
+P=0.0501 GFLOP/s
+T=77.6 s
+M=1888	N=1888	v=19
+B=0.963 Gbyte/s
+kji
+I=236 FLOP/byte
+P=0.0449 GFLOP/s
+T=300 s
+-O2
+M=928	N=928	v=19
+B=1.16 Gbyte/s
+kji
+I=116 FLOP/byte
+P=0.0677 GFLOP/s
+T=23.6 s
+M=1248	N=1248	v=19
+B=1.15 Gbyte/s
+kji
+I=156 FLOP/byte
+P=0.0499 GFLOP/s
+T=77.9 s
+M=1888	N=1888	v=19
+B=1.15 Gbyte/s
+kji
+I=236 FLOP/byte
+P=0.0451 GFLOP/s
+T=298 s
+-O3
+M=928	N=928	v=19
+B=1.34 Gbyte/s
+kji
+I=116 FLOP/byte
+P=0.0676 GFLOP/s
+T=23.6 s
+M=1248	N=1248	v=19
+B=1.34 Gbyte/s
+kji
+I=156 FLOP/byte
+P=0.05 GFLOP/s
+T=77.8 s
+M=1888	N=1888	v=19
+B=1.3 Gbyte/s
+kji
+I=236 FLOP/byte
+P=0.0449 GFLOP/s
+T=299 s

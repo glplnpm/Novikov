@@ -1,0 +1,125 @@
+-O0
+M=928	N=928	v=19
+0.19	1.9
+-O0
+M=928	N=928	v=19
+0.19	1.9
+1.9
+B=0.479 Gbyte/s
+ijk P=0.0655GFLOP/s
+ijk T1=24.4s
+ijk S1=1s
+ijk E1=100%
+ijk P=0.127GFLOP/s
+ijk T2=12.6s
+ijk S2=1.94s
+ijk E2=96.9%
+ijk P=0.184GFLOP/s
+ijk T3=8.71s
+ijk S3=2.8s
+ijk E3=93.5%
+ijk P=0.23GFLOP/s
+ijk T4=6.95s
+ijk S4=3.51s
+ijk E4=87.8%
+M=1248	N=1248	v=19
+0.19	1.9
+1.9
+B=0.449 Gbyte/s
+ijk P=-0.00653GFLOP/s
+ijk T1=62.4s
+ijk S1=1s
+ijk E1=100%
+ijk P=-0.0126GFLOP/s
+ijk T2=32.4s
+ijk S2=1.93s
+ijk E2=96.3%
+ijk P=-0.0179GFLOP/s
+ijk T3=22.7s
+ijk S3=2.74s
+ijk E3=91.5%
+ijk P=-0.022GFLOP/s
+ijk T4=18.6s
+ijk S4=3.36s
+ijk E4=84%
+M=1888	N=1888	v=19
+0.19	1.9
+1.9
+B=0.417 Gbyte/s
+ijk P=0.0017GFLOP/s
+ijk T1=337s
+ijk S1=1s
+ijk E1=100%
+ijk P=0.00264GFLOP/s
+ijk T2=217s
+ijk S2=1.55s
+ijk E2=77.6%
+ijk P=0.00257GFLOP/s
+ijk T3=224s
+ijk S3=1.51s
+ijk E3=50.2%
+ijk P=0.00358GFLOP/s
+ijk T4=160s
+ijk S4=2.1s
+ijk E4=52.6%
+-O3
+M=928	N=928	v=19
+0.19	1.9
+1.9
+B=1.95 Gbyte/s
+ijk P=0.15GFLOP/s
+ijk T1=10.6s
+ijk S1=1s
+ijk E1=100%
+ijk P=0.218GFLOP/s
+ijk T2=7.32s
+ijk S2=1.45s
+ijk E2=72.7%
+ijk P=0.259GFLOP/s
+ijk T3=6.17s
+ijk S3=1.73s
+ijk E3=57.5%
+ijk P=0.26GFLOP/s
+ijk T4=6.14s
+ijk S4=1.73s
+ijk E4=43.3%
+M=1248	N=1248	v=19
+0.19	1.9
+1.9
+B=1.53 Gbyte/s
+ijk P=-0.0119GFLOP/s
+ijk T1=34.3s
+ijk S1=1s
+ijk E1=100%
+ijk P=-0.0181GFLOP/s
+ijk T2=22.5s
+ijk S2=1.52s
+ijk E2=76.1%
+ijk P=-0.0201GFLOP/s
+ijk T3=20.3s
+ijk S3=1.69s
+ijk E3=56.2%
+ijk P=-0.0215GFLOP/s
+ijk T4=18.9s
+ijk S4=1.81s
+ijk E4=45.2%
+M=1888	N=1888	v=19
+0.19	1.9
+1.9
+B=0.998 Gbyte/s
+ijk P=0.00314GFLOP/s
+ijk T1=183s
+ijk S1=1s
+ijk E1=100%
+ijk P=0.00479GFLOP/s
+ijk T2=120s
+ijk S2=1.52s
+ijk E2=76.2%
+ijk P=0.00491GFLOP/s
+ijk T3=117s
+ijk S3=1.56s
+ijk E3=52.1%
+ijk P=0.00506GFLOP/s
+ijk T4=114s
+ijk S4=1.61s
+ijk E4=40.3%
